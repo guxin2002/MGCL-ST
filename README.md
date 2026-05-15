@@ -11,6 +11,6 @@ This repository contains source code and usage for **MGCL-ST**
 
 Figure 1: Overall architecture of MGCL-ST
 
-## 4. Usage
+## 3. Usage
 
 All the codes required to execute **MGCL-ST** are provided in this GitHub repository. Please make sure to replace the input data path in the code with your own storage location.And the Virchow2 model is publicly available at https://huggingface.co/paige-ai/Virchow2
